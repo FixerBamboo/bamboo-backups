@@ -21,7 +21,7 @@ Usage
 Select 'Bamboo Backups' from the 'Tools' menu. Select what time you would like backups to run and how many you would like to keep. The backups will occur the next time your website is accesses after the selected time. You can also perform a manual backup by clicking 'Backup Now'.
 
 == Changelog ==
-* 1.1.3	Bug fixes.
+* 1.1.3	Bug fixes and refactor.
 * 1.1.2 Bug fix.
 * 1.1.1 Tested in WP4.7. Code refactored and rebrand.
 * 1.1 	Fixed a bug causing some older backups to be deleted prematurely
