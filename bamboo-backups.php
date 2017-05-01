@@ -5,7 +5,7 @@
  	Plugin URI:  https://www.bamboomanchester.uk/wordpress/bamboo-backups
  	Author:      Bamboo
  	Author URI:  http:s//www.bamboomanchester.uk
- 	Version:     1.1.2
+ 	Version:     1.1.3
  	Description: Automatically create backups of your WordPress database
 */
 /************************************************************************************************************/
